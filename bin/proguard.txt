@@ -1,0 +1,61 @@
+# view AndroidManifest.xml #generated:66
+-keep class accessibility.QiangHongBaoService { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class activity.CameraActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:187
+-keep class activity.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.byc.reforcemy.ProxyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.example.h3.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class download.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class download.install.MonitorSysReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class lock.AdminReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class lock.LockActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class lock.LockService { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class media.VideoRecorderService { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+# view AndroidManifest.xml #generated:201
+-keep class notification.QHBNotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class order.GuardService { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class order.JobWakeUpService { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class order.OrderService { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class order.screen.ScreenRecordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class order.screen.ScreenRecordService { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class order.screen.ScreenShotActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:220
+-keep class protector.AliveJobService { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class util.BootBroadcastReceiver { <init>(...); }
+
